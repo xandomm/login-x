@@ -1,0 +1,19 @@
+.loginscreen {
+    display: flex;
+    flex: 2;
+    height: 80vh;
+}
+.loginform {
+    display: flex;
+    width: 50vw;
+    justify-content: flex-end;
+
+    height: 70vh;
+
+}
+.createAcount {
+    display: flex;
+    width: 50vw;
+    justify-content: center;
+    align-items: center;
+}

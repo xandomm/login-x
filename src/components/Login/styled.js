@@ -64,5 +64,5 @@ export const BtnDefaut = styled(BtnIcons1)`
     align-items: center;
     padding: 10px 22px;
     border-radius: 20px;
-    margin-bottom: 48px;
+
 `;
